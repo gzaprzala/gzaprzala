@@ -1,6 +1,6 @@
 # Hi there 👋
 I'm Grzegorz Zaprzała,
-3rd year Computer Science student at Cracow University of Technology.
+4th year Computer Science student at Cracow University of Technology.
 # Familiar/worked with
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
