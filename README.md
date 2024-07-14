@@ -1,6 +1,4 @@
 # Hi there 👋
-I'm Grzegorz Zaprzała,
-4th year Computer Science student at Cracow University of Technology.
 
 # Stats
 <table align="left" border="0" cellpadding="0" cellspacing="0">
