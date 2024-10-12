@@ -1,25 +1,9 @@
-# Hi there 👋
-
 # Stats
 <table align="left" border="0" cellpadding="0" cellspacing="0">
   <thead>
     <tr>
         <img
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=gzaprzala&layout=compact&theme=tokyonight"
-          alt="GitHub Stats"
-          width="375px"
-        />
-    </tr>
-    <tr>
-        <img
-          src="https://streak-stats.demolab.com/?user=gzaprzala&theme=tokyonight"
-          alt="GitHub Stats"
-          width="375px"
-        />
-    </tr>
-    <tr>
-        <img
-          src="https://github-readme-stats.vercel.app/api?username=gzaprzala&show_icons=true&locale=en&theme=tokyonight"
           alt="GitHub Stats"
           width="375px"
         />
