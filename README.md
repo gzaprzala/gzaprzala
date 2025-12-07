@@ -1,16 +1,3 @@
-# Stats
-<table align="left" border="0" cellpadding="0" cellspacing="0">
-  <thead>
-    <tr>
-        <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=gzaprzala&layout=compact&theme=tokyonight"
-          alt="GitHub Stats"
-          width="375px"
-        />
-    </tr>
-  </thead>
-</table>
-
 # Contact
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grzegorz-zaprza%C5%82a-82866126b/)
 
